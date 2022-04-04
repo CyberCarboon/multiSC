@@ -22,3 +22,11 @@
 
  ***pkg install git***
 
+ ***git clone https://github.com/CyberCarboon/multiSC***
+
+ ***ls***
+
+ ***git pull***
+
+ ***python multi_sc.py***
+
